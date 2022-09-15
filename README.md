@@ -4,4 +4,6 @@
 ## braA
 ## mainEdit in braA
 ## braB
-## maineEdit in braB
+## mainEdit in braB
+## braC
+## mainEdit in braC
